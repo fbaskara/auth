@@ -1,0 +1,4 @@
+rails new . 
+
+rails g controller users new
+
